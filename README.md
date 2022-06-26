@@ -6,6 +6,7 @@ I am a passionate and curious front-end developer from Bangladesh. I have a pass
 
 Skills: NODE JS / REACT JS / JAVASCRIPT / ES6 /REST API / MATERIAL UI / REACT BOOTSTRAP / HTML / CSS
 
+- 🔭 I’m currently working in Blossom as a frontend developer internship 
 - 🔭 I’m currently working on Forest Life mern stack project 
 - 🌱 I’m currently learning Core React JS and TypeScript 
 - 👯 I’m looking to collaborate on Github and zira 
